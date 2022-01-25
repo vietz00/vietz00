@@ -3,6 +3,8 @@
 <a href="https://github.com/vietz00"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vietz00&show_icons=true&theme=vue-dark&hide_border=true" alt="Vietz00's github stats" /></a>
 <a href="https://github.com/vietz00"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietz00&layout=compact&theme=vue-dark&hide_border=true" /></a>
 
+[![J2TEAM](dino.gif)](https://github.com/vietz00)
+
 <a href="https://www.instagram.com/viet.z00">
   <img align="right" alt="Viet Nguyen | VKontakte" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
 </a>
