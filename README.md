@@ -8,11 +8,23 @@
 
 <a href="https://www.instagram.com/viet.z00" target="_blank">
   <img align="right" alt="Viet Nguyen | VKontakte" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" /></a>
-<a href="" target="_blank">
+  
+<a href="#" target="_blank">
   <img align="right" alt="Viet Nguyen | Notion" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" /></a>
+  
 <a href="https://www.facebook.com/viet.z00" target="_blank">
   <img align="right" alt="Viet Nguyen | Facebook" width="30px" src="https://cdn.worldvectorlogo.com/logos/facebook-3-3.svg" /></a>
+  
 <a href="https://vk.com/vietz00" target="_blank">
   <img align="right" alt="Viet Nguyen | VKontakte" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" /></a>
-
-## Connect to me 
+  
+<a href="#" target="_blank">
+  <img align="right" alt="Viet Nguyen | Youtube" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/YouTube_social_red_circle_%282017%29.svg/480px-YouTube_social_red_circle_%282017%29.svg.png" /></a>
+  
+ <a href="#" target="_blank">
+  <img align="right" alt="Viet Nguyen | Twitter" width="30px" src="https://upload.wikimedia.org/wikipedia/ru/thumb/9/9f/Twitter_bird_logo_2012.svg/296px-Twitter_bird_logo_2012.svg.png" /></a>
+  
+ <a href="#" target="_blank">
+  <img align="right" alt="Viet Nguyen | Linkedin" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" /></a>
+  
+## Connect to me 👀
