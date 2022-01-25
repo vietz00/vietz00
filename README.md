@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Viet Nguyen</h1>
 
-| <a href="https://github.com/vietz00"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vietz00&show_icons=true&theme=vue-dark&hide_border=true" alt="Vietz00's github stats" /></a> | <a href="https://github.com/vietz00"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietz00&layout=compact&theme=vue-dark&hide_border=true" /></a> |
+| <a href="https://github.com/vietz00"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vietz00&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="Vietz00's github stats" /></a> | <a href="https://github.com/vietz00"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietz00&layout=compact&theme=vue-dark&hide_border=true" /></a> |
 | --- | --- |
-| <a href="https://github.com/vietz00"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vietz00&theme=vue-dark&hide_border=true" /></a> |<img align='right' src="https://raw.githubusercontent.com/f7deat/f7deat/master/nom-nom.gif" width="230"> |
+| <a href="https://github.com/vietz00"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vietz00&theme=vue-dark&hide_border=true&count_private=true" /></a> |<img align="center" alt="Coding" width="350px" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" style="vertical-align:middle;margin:0px 0px"> |
 
 [![](dino.gif)](https://github.com/vietz00)
 
