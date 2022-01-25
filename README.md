@@ -5,7 +5,7 @@
 <a href="https://github.com/vietz00"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietz00&layout=compact&theme=vue-dark&hide_border=true" /></a>
 <img align='right' src="https://raw.githubusercontent.com/f7deat/f7deat/master/nom-nom.gif" width="230">
 <a href="https://github.com/vietz00"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vietz00&theme=vue-dark&hide_border=true" /></a>
-
+##
 [![](dino.gif)](https://github.com/vietz00)
 
 <p align="center" margin-left="5px" >
@@ -19,4 +19,4 @@
   <img alt="Viet Nguyen | VKontakte" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" /></a>
 </p>
 
-## Connect with me 👀
+##
